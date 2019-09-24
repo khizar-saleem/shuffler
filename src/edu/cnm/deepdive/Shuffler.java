@@ -14,7 +14,7 @@ public class Shuffler {
 
   /**
    * Initializes this instance
-   * @param rng
+   * @param rng random number generator.
    */
   public Shuffler(Random rng) {
     this.rng = rng;
